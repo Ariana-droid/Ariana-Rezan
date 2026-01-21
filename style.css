@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+.playwrite-gb-j-guides-regular {
+  font-family: "Playwrite GB J Guides", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+li{
+	color: aliceblue;
+}
+
+}
+.playwrite-gb-j-guides-regular-italic {
+  font-family: "Playwrite GB J Guides", cursive;
+  font-weight: 400;
+  font-style: italic;
+}
+>
+p { 
+	color:#340d54;
+	font:Berlin Sans FB Demi;
+	font-size: 18px;
+	line-height: 18px;
+	width: 600px;
+	background-color: #e0bdfc;
+	padding: 20px;
+ }
+ h1, h2 {
+	 color:#ffb142;
+	 font-family:"Playwrite GB J Guides", serif;
+	font-size:26px;
+ }
+ body {
+	 background-image: url(slike/skelington.jpg);
+}
+a:link {
+	color:#340d54;
+	font-size: 14px;
+	line-height:18px;
+	background-color: #e0bdfc;
+	padding: 3px;
+	border: 1px solid #811491
+}
+a:hover {
+	color:#1e0830;
+	font-size: 14px;
+	line-height:18px;
+	background-color: #ac8dc4;
+	padding: 3px;
+	border: 1px solid #811491
+}
